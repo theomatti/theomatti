@@ -8,6 +8,19 @@ I'm a motivated Mathematics graduate with expertise in Python and experience in 
 
 Check out my [CV](https://docs.google.com/document/d/1pMzTXsJ1UtJ01S494uu86DsQNlTkBM9s/edit?usp=sharing&ouid=110348475943931204784&rtpof=true&sd=true) & Projects on my GitHub to learn more about my technical skills, work experience, and education. Thanks for stopping by!
 
+#
+
+### 🛠️ Skills & Languages
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Excel" width="50px" style="padding-right:10px;" src="https://i.imgur.com/NHjBZf1.png" />
+<img align="left" alt="Word" width="50px" style="padding-right:10px;" src="https://i.imgur.com/zmgb6Aa.png" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://i.imgur.com/oFd9EDh.png" />
+<img align="left" alt="Javascript" width="35px" style="padding-right:10px;" src="https://i.imgur.com/5gSFoaO.png" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+
+
+#
 
 #
 
